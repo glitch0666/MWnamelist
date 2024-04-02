@@ -20,9 +20,7 @@ Simple info to keep track of what I'm currently working on, or finished
 ### Done:
 -
 ### In progress:
--
-### TBA:
--
+- MW2022
 
 
 ## Weapons
@@ -30,20 +28,15 @@ Simple info to keep track of what I'm currently working on, or finished
 -
 ### In progress:
 -
-### TBA:
--
 
 ## Textures
 ### Done:
 -
 ### In progress:
 -
-### TBA:
--
+
 ## Animations
 ### Done:
 -
 ### In progress:
--
-### TBA:
 -
