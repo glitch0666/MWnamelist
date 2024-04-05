@@ -1,41 +1,25 @@
-# Modern Warfare asset names list
+# Modern Warfare Reboot asset names list
 Simple info to keep track of what I'm currently working on, or finished
 
 
 # To-Do List
-<details>
-  <summary>Games and game versions I'm doing</summary>
+Games and game versions I'm doing
   
-  - MW2019
+  - MW2019 Multi
   - MW2019 Campaign
-  - MW2022 
   - MW2022 Campaign
   - MW2022 Co-op/Raids
-  - MW2023
+  - MW2022/2023 Multi
   - MW2023 Campaign
-    
-</details>
 
 ## Characters
 ### Done:
 -
 ### In progress:
-- MW2022
+- MW2022/2023 Multi
 
 
 ## Weapons
-### Done:
--
-### In progress:
--
-
-## Textures
-### Done:
--
-### In progress:
--
-
-## Animations
 ### Done:
 -
 ### In progress:
