@@ -118,7 +118,7 @@
 - Glimmer - `november_14`
 - ? - `november_15`
 - Saboteur - `november_16`
-- Shimo - `novermber_17`
+- Shimo - `november_17`
 - Saboteur Blackcell - `november_18`
 
 ## Calisto
