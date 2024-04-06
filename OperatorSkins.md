@@ -142,3 +142,79 @@
 - Team-based (MW2023) - `cdl_(team name)_male_away` and `cdl_(team name)_female_away` and `cdl_(team name)_male_home` and `cdl_(team name)_female_home`
 - CDL Launch (MW2023) - `cdl_male_away` and `cdl_female_away` and `cdl_male_home` and `cdl_female_home`
 - Legacy (Dev skin) - `cdl_atvi_male_away` and `cdl_atvi_female_away` and `cdl_atvi_male_home` and `cdl_atvi_female_home`
+
+## Cheech
+### Base name `spring`
+- Cheech - `spring`
+
+## Chong
+### Base name `summer`
+- Chong - `summer`
+
+## Chuy
+### Base name `chili_iw9`/`chuy_iw9`
+- Shadow Merc - `assassin_iw9_1_1`
+- Chuy - `chili_iw9_1_1`
+- Clearwater - `chili_iw9_2_1`
+- Incoming Fire - `chili_iw9_3_1`
+- Urban Recon - `chili_iw9_4_1`
+- Fusillade - `chili_iw9_5_1`
+- Teniente - `chili_iw9_8_1`
+- Teniente Blackcell - `chili_iw9_8_2`
+- Artistic Vision - `chuy_iw9_10_1`
+- Bushwacked - `chuy_iw9_6_1`
+- Bracken - `chuy_iw9_9_1`
+
+## Conor
+### Base name `conor_iw9`
+- Conor - `conor_iw9_1_1`
+- Burger Town King - `conor_iw9_2_1`
+- Jungle Stalker - `conor_iw9_3_1`
+- Luxe - `conor_iw9_5_1`
+- Return Fire - `conor_iw9_6_1`
+- Off Kilter - `conor_iw9_8_1`
+- Blunt Fingers - `fender_iw9_10_1`
+
+## Corso
+### Base name `oscar`
+- Corso - `oscar`
+- Bath Time - `oscar_10`
+- Mortem - `oscar_11`
+- Ghilliebeast - `oscar_13`
+- Cask - `oscar_14`
+- Pestilence - `oscar_15`
+- Ritual Boss - `oscar_18`
+- Meltdown 240 - `oscar_19`
+- The Mind - `oscar_20`
+- Cask Blackcell - `oscar_21`
+
+## Doc
+### Base name `juliet`
+- Doc - `juliet`
+- Sleigh - `juliet_10`
+- Speed Runner Blackcell - `juliet_11`
+- High Score - `juliet_12`
+- Speed Runner - `juliet_13`
+- Battle Sister - `juliet_14`
+- Cardinal - `juliet_18`
+- Cardinal Blackcell - `juliet_19`
+
+## Dokkaebi
+### Base name `maestro`
+- Dokkaebi - `maestro`
+- Petrol - `maestro_11`
+- Dokkaebi Blackcell - `maestro_13`
+- Warlord/Zombies - `ext_maestro`
+
+## Enigma
+### Base name `quebec`
+- Enigma - `quebec`
+- Material Handler - `quebec_10`
+- Insectoid - `quebec_11`
+- Resonance - `quebec_12`
+- Resonance Blackcell - `quebec_13`
+- Subatomic - `quebec_14`
+- Coup - `quebec_15`
+- Casanova - `quebec_16`
+- Happy - `quebec_17`
+- ? - `quebec_18`
