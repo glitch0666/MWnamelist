@@ -83,6 +83,25 @@
 - Banshee - `kappa`
 - Banshee Blackcell - `kappa_10`
 
+## BBQ
+### Base name `alpha`
+- BBQ - `alpha`
+- Buck Hunter - `alpha_10`
+- War God - `alpha_11`
+- Komodo - `alpha_12`
+- The Beast - `alpha_13`
+- Zero Chill - `alpha_13a`
+- Beast Up - `alpha_13c`
+- Tester - `alpha_15`
+- Burger Town King - `alpha_16`
+- Monochrome - `alpha_17`
+- Good Game - `alpha_19`
+- Lucky Charm - `alpha_20`
+- Sigma - `alpha_23`
+- Clutch - `alpha_24`
+- Sigma Blackcell - `alpha_26`
+- ? - `alpha_27`
+
 ## Bantam
 ### Base name `golf`
 - Bantam - `golf`
