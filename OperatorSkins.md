@@ -240,3 +240,116 @@
 - Casanova - `quebec_16`
 - Happy - `quebec_17`
 - ? - `quebec_18`
+
+## Farah
+### Base name `farah_iw9`
+- TF 141 Red Farah - `farah_iw9_1_1`
+- Fighting Spirit - `farah_iw9_1_2`
+- Road Rage - `farah_iw9_convoy`
+- Road Rage Blackcell - `farah_iw9_convoy_blackcell`
+- Voxel - `farah_iw9_2_1`
+- Skulker - `farah_10`
+- Skulker Blackcell - `farah_11`
+
+## Fender
+### Base name `fender_iw9`
+- Fender - `fender_iw9_1_1`
+- Amped - `fender_iw9_2_1`
+- Ashmedai - `fender_iw9_4_1`
+- Checkmate - `fender_iw9_5_1`
+- Vanquisher - `fender_iw9_6_1`
+- EOD Specialist - `fender_iw9_7_1`
+- Do you even lift? - `fender_iw9_8_1`
+- Carver - `fender_iw9_9_1`
+- Blunt Fingers - `fender_iw9_10_1`
+- Creepy Clown - `clown_iw9_1_1`
+- Creepy Clown Blackcell - `clown_iw9_1_2`
+
+## Feyd
+### Base name `gamma`
+- Feyd-Rautha - `gamma`
+
+## Firecracker
+### Base name `eta`
+- Firecracker - `eta`
+
+## Gaz
+### Base name `kyle_iw9` or `gaz`
+- Unreleased skin from Raid 1 - head `kyle_iw9_convoy_hat` body `kyle_iw9_highrise`
+- Convoy - `kyle_iw9_convoy`
+- Takedown - `kyle_iw9_highrise`
+- Takedown Blackcell - `kyle_iw9_highrise_1_2`
+- Grass Ops - `kyle_iw9_intercept`
+- Aquatic - `kyle_iw9_marina`
+- Mangler - `gaz_10`
+
+## Ghost
+### Base name `ghost_iw9` or `ghost`
+- Nightwar - `ghost_iw9_nightwar`
+- Nightwar Blackcell - `ghost_iw9_nightwar_2_1`
+- Possessed - `ghost_iw9_10_1`
+- TF 141 Red Team Ghost - `ghost_iw9_1_1`
+- Loch - `ghost_iw9_2_1`
+- Classic Ghost - `ghost_iw9_3_1`
+- Hood Up Classic - `ghost_iw9_3_2`
+- Gilded Reaper - `ghost_iw9_4_1`
+- Pyro - `ghost_iw9_5_1`
+- Ghost Senpai - `ghost_iw9_6_1`
+- Spectral Ghost - `ghost_iw9_7_1`
+- The Marshal - `ghost_iw9_8_1`
+- The Rook - `ghost_iw9_9_1`
+- The Rook Blackcell - `ghost_iw9_9_2`
+- Desert Ghost - `ghost_iw9_desert`
+- Desert Ghost Blackcell - `hero_ghost_desert_1_2`
+- Death's Right Hand - `ghost_iw9_11_1`
+- Zombie Ghost - `ghost_iw9_12_1`
+- Golden Phantom - `ghost_iw9_mgl_2_3`
+- Bacillus - `ghost_10`
+- Venator - `ghost_11`
+- Shade - `ghost_12`
+- Venator Blackcell - `ghost_13`
+- Shade Blackcell - `ghost_14`
+- Nemesis Ghost - `ghost_vault`
+
+## Graves
+### Base name `graves_iw9`
+- Graves - `graves_iw9_pmc`
+- Graves Blackcell - `graves_iw9_pmc_bc`
+- Shadow 0-1 - `graves_iw9_sc`
+- Shadow 0-1 Blackcell - `graves_iw9_sc_bc`
+
+## Gromsko
+### Base name `gromsko_iw9` or `tarzan_iw9`
+- Gromsko - `tarzan_iw9_3_1`
+- Track Star - `gromsko_iw9_4_1`
+- Manticore - `gromsko_iw9_5_1`
+- Strzyga - `tarzan_iw9_1_1`
+- The Huner - `tarzan_iw9_2_1`
+- Dr. Kushlov - `karlov_iw9_1_1`
+
+## Gus
+### Base name `gus_iw9`
+- Gus - `gus_iw9_1_1`
+- War Bull - `gus_iw9_2_1`
+- ETH.3N - `gus_iw9_3_1`
+- The Scavanger - `gus_iw9_4_1`
+- High Society - `gus_iw9_5_1`
+- Three Piece - `gus_iw9_5_2`
+- El Santo - `gus_iw9_6_1`
+- El Santo Blackcell - `gus_iw9_6_2`
+- Hired Gun - `gus_iw9_7_1`
+- The Investigator - `gus_iw9_8_1`
+- Sgt. Pspsps - `cat_iw9_1_1`
+- Sgt. Sprinkles - `cat_iw9_1_2`
+
+## Homelander 
+### Base name `hl_iw9`
+- Homelander - `hl_iw9_1_1`
+
+## Horangi
+### Base name `horangi_iw9`
+- Horangi - `horangi_iw9_2_1`
+- D.E.A.D Agent - `horangi_iw9_3_1`
+- Invoker - `horangi_iw9_4_1`
+- Dogfight - `horangi_iw9_5_1`
+- 
