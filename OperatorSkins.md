@@ -39,7 +39,7 @@
 - Vaquero Blackcell - `alejandro_iw9_2_2`
 - The Masked Knight - `alejandro_iw9_3_1`
 - The Knight - `alejandro_iw9_3_2`
-- Swamped - `chuy_iw9_7_1`
+- Swamped - `chuy_iw9_7_1` 
 - Swamped Blackcell - `chuy_iw9_7_2`
 
 ## Alex
@@ -95,7 +95,6 @@
 - The Beast - `alpha_13`
 - Zero Chill - `alpha_13a`
 - Beast Up - `alpha_13c`
-- Tester - `alpha_15`
 - Burger Town King - `alpha_16`
 - Monochrome - `alpha_17`
 - Good Game - `alpha_19`
@@ -352,4 +351,534 @@
 - D.E.A.D Agent - `horangi_iw9_3_1`
 - Invoker - `horangi_iw9_4_1`
 - Dogfight - `horangi_iw9_5_1`
-- 
+- Tac Runner - `horangi_iw9_6_1`
+- Bombast - `horangi_iw9_7_1`
+- Disruptor - `horangi_iw9_8_1`
+- Disruptor Blackcell - `horangi_iw9_8_2`
+- Collision - `beta_iw9_1_1`
+- Death Frame - `chrome_neon_iw9_1_1`
+- Warfighter - `kpop_iw9_1_1`
+
+## Hush
+### Base name `lambda`
+- Hush - `lambda`
+- Hush Blackcell - `lambda_10`
+
+## Hutch
+### Base name `hutch_iw9`
+- Hutch - `hutch_iw9_1_1`
+- Legionnaire - `hutch_iw9_2_1`
+- The Protector - `hutch_iw9_3_1`
+- Banknote - `hutch_iw9_4_1`
+- Tacti-yule - `hutch_iw9_5_1`
+- Vengeful Dragon - `hutch_iw9_6_1`
+- The Technician - `hutch_iw9_7_1`
+- Foxy - `hutch_iw9_8_1`
+- Big Steppa - `hutch_iw9_10_1`
+
+## Inarius
+### Base name `inarius_iw9`
+- Inarius - `inarius_iw9_1_1`
+
+## Io
+### Base name `blackcell_iw9`
+- Io - `blackcell_iw9_2_1`
+
+## Izzy 
+### Base name `neotokyo_iw9` or `anime_iw9`
+- Izzy - head `neotokyo_iw9_1_1` body `anime_iw9_1_1`
+
+## Jabber
+### Base name `mike`
+- Tester - `alpha_15`
+- Jabber - `mike`
+- Range Watcher - `mike_11`
+- Shadow Operator - `mike_12`
+- Slice Slayer - `mike_13`
+- Safeguard - `mike_14`
+- Titanus Godzilla - `mike_15`
+- Emperor - `mike_16`
+- Action Figure - `mike_17`
+- Hatch - `mike_18`
+
+## Jet
+### Base name `papa`
+- Jet - `papa`
+- Tactical Streets - `papa_10`
+- Cyber Cat - `papa_11`
+- Foliage - `papa_12`
+- Foliage Blackcell - `papa_13`
+- Breather - `papa_14`
+- Hunger Pains - `papa_15`
+- Whimsy - `papa_16`
+- Vex - `papa_17`
+- ? - `papa_19`
+
+## John Doe
+### Base name `cal`
+- John Doe - `cal`
+
+## Kevin Durant
+### Base name `kevin_durant_iw9`
+- Kevin Durant `kevin_durant_iw9_1_1`
+
+## Klaus
+### Base name `klaus_iw9`
+- Klaus - `klaus_iw9_1_1`
+- Surfin' Klaus - `klaus_iw9_2_1`
+- Undead Saint - `mike_10`
+- Mr Hops - `easter_bunny_iw9_1_1`
+- Mr Hips - `easter_bunny_iw9_1_2`
+- MC Hips - `easter_bunny_iw9_2_1`
+- MC Hops - `easter_bunny_iw9_2_2`
+
+## Kleo
+### Base name `kleo_iw9`
+- Kleo - `kleo_iw9_1_1`
+- Macroburst - `kleo_iw9_1_2`
+- Weather Proof - `kleo_iw9_1_3`
+- The Covetous - `kleo_iw9_2_1`
+- Hustle - `kleo_iw9_3_1`
+- Gozen - `kleo_iw9_4_1`
+- Fission - `kleo_iw9_5_1`
+- Manthus - `kleo_iw9_6_1`
+- Ocean Fog - `kleo_iw9_7_1`
+- Ocean Fog Blackcell - `kleo_iw9_7_2`
+- Zombie - `kleo_iw9_8_1`
+
+## Konig
+### Base name `koenig_iw9` or `ramstein_iw9` or `kilgore_iw9`
+- Konig - `kilgore_iw9_1_1`
+- Anonymous - `kilgore_iw9_1_2`
+- Blood Soaked - `kilgore_iw9_1_3`
+- Praetorian - `kilgore_iw9_1_4`
+- Tricks - `kilgore_iw9_1_5`
+- Vapor - `kilgore_mgl_2_1`
+- Biohazard - `koenig_iw9_4_1`
+- Ghillie Monster - `koenig_iw9_5_1`
+- Antibody - `koenig_iw9_6_1`
+- Sinister - `koenig_iw9_7_1`
+- Arachnid - `koenig_iw9_8_1`
+- The Wolf - `koenig_iw9_10_1`
+- Deep Lord - `koenig_iw9_11_1`
+- Violator - `koenig_iw9_12_1`
+- Violator Blackcell - `koenig_iw9_13_1`
+- Desidia - `ramstein_iw9_2_1`
+- Expedition - `ramstein_iw9_3_1`
+
+## Lara Croft
+### Basename `lc_iw9`
+- Lara Croft - `lc_iw9_1_1`
+
+## Laswell
+### Base name `laswell`
+- Laswell - `laswell`
+- Laswell Blackcell - `laswell_11`
+
+## Lilith
+### Base name `doh`
+- Lilith - `doh_iw9_1_1`
+
+## Lockpick
+### Base name `lima`
+- Van Goated - `lima`
+
+## Luna
+### Base name `akira_iw9` or `luna_iw9`
+- Luna - `akira_iw9_1_1`
+- Fire Watch - `akira_iw9_2_1`
+- Abyss - `luna_iw9_3_1`
+
+## Mace
+### Base name `mace_iw9`
+- Mace - `mace_iw9_1_1`
+
+## Makarov 
+### Base name `makarov`
+- Buisness Casual - `makarov_12`
+- Urban Makarov - `makarov_13`
+- Dominus - `makarov_14`
+- Fenrir - `makarov_15`
+- Fenrir Blackcell - `makarov_20`
+- Dominus Blackcell - `makarov_21`
+- Nemesis Makarov - `makarov_vault`
+
+## Messi
+### Base name `messi_iw9`
+- Messi - `messi_iw9_1_1`
+
+## Michonne
+### Base name `bike`
+- Michonne - `bike`
+
+## Mil-Sims
+### Specgru `milsim_west_iw9`
+- War Suit - `milsim_anti_terror_1_1`
+- Rangers 1 - `milsim_west_iw9_1_1`
+- Grunt Work - `milsim_west_iw9_1_2`
+- ? - `milsim_west_iw9_1_3`
+- Rangers 2 - `milsim_west_iw9_2_1`
+- Rangers 3 - `milsim_west_iw9_3_1`
+- Rangers 4 - `milsim_west_iw9_4_1`
+- Apparition - `opforce_shadow_company_armored_dmr_1`
+- Barrage - `milsim_shadow_company_iw9_1`
+### Kortac `milsim_east_iw9`
+- Kortac Group 1 - `milsim_east_iw9_1_1`
+- Sleet - `milsim_east_iw9_1_2`
+- Snowplow - `milsim_east_iw9_1_3`
+- Kortac Group 2 - `milsim_east_iw9_2_1`
+- Kortac Group 3 - `milsim_east_iw9_3_1`
+- Kortac Group 4 - `milsim_east_iw9_4_1`
+- Militant - `sc_ar_iw9_1_1`
+- The Unseen - `opforce_al_qatala_elite_sniper_1_1`
+
+## Mila
+### Base name `bullitt_iw9`
+- Mila - `bullitt_iw9_1_1`
+- Soul Crusher - `blair_iw9_3_1`
+- Soul Crusher Blackcell - `blair_iw9_3_2`
+
+## Nicki Minaj
+### Base name `nima_iw9`
+- Nicki Minaj - `nima_iw9_1_1`
+
+## Neymar
+### Base name `neymar_iw9`
+- Neymar - `neymar_iw9_1_1`
+
+## Nickmercs
+### Base name `nick_mercs_iw9`
+- Nickmercs - `nick_mercs_iw9_1_1`
+- Nickmercs Hooded - `nick_mercs_iw9_2_1`
+
+## Nikto
+### Base name `nikto_iw9`
+- Nikto - `nikto_iw9_1_1`
+- Nikto Blackcell - `nikto_iw9_1_2`
+- Powercell - `nikto_iw9_2_1`
+- Powercell Blackcell - `nikto_iw9_2_2`
+- Nikto Spawn - `nikto_iw9_3_1`
+- Nikto Spawn Blackcell - `nikto_iw9_3_2`
+
+## Black Noir
+### Base name `bn_iw9`
+- Black Noir - `bn_iw9_1_1`
+
+## Nolan
+### Base name `nolan`
+- Nolan - `nolan`
+- Scorcher - `nolan_10`
+- Nolan Blackcell - `nolan_11`
+- Fiber Guard - `nolan_13`
+- Nolan Blackcell - `nolan_15`
+- Alpha Guard - `nolan_16`
+- Precise Execution - `nolan_17`
+
+## Nova
+### Base name `nova_iw9`
+- Nova - `nova_iw9_1_1`
+- Cardio - `nova_iw9_2_1`
+- Ruthless Pursuit - `nova_iw9_3_1`
+- Nova Ops - `nova_iw9_4_1`
+- Enigma - `nova_iw9_6_1`
+- Lion's Might - `nova_iw9_7_1`
+- Overgrown - `nova_iw9_8_1`
+- Titan 239 - `nova_iw9_cq`
+- Gaia - `gaia_iw9_1_1`
+- Gaia Blackcell - `gaia_iw9_1_2`
+
+## Oni
+### Base name `oni_iw9`
+- Oni - `oni_iw9_1_1`
+- Oni Tactical - `oni_iw9_2_1`
+- Oni Pyroclast - `oni_iw9_3_1`
+- Oni Revenant - `oni_iw9_4_1`
+- Oni Diver - `oni_iw9_5_1`
+- Oni Eclipse - `oni_iw9_6_1`
+- Oni Omega - `oni_iw9_7_1`
+
+## Oz
+### Base name `oz_iw9`
+- Oz - `zoltan_iw9_1_1`
+- Oz Blackcell - `zoltan_iw9_1_2`
+- Onslaught - `oz_iw9_2_1`
+- Onslaught Blackcell - `oz_iw9_2_2`
+
+## Pathfinder
+### Base name `bravo`
+- Pathfinder - `bravo`
+- Knighthood - `bravo_10`
+- Galactic Mind - `bravo_11`
+- Painter - `bravo_12`
+- Undaunted - `bravo_13`
+- Kabuto - `bravo_14`
+- Nessie - `bravo_15`
+- Undaunted Blackcell - `bravo_17`
+
+## Paul Atreides
+### Base name `beta`
+- Paul Atreides - `beta`
+- Paul Atreides Fedaykin Stealth Suit - `beta_10`
+
+## Paul Pogba
+### Base name `pobga_iw9`
+- Paul Pogba - `pobga_iw9_1_1`
+
+## Price 
+### Base name `price_iw9` or `price`
+- TF 141 Red Team Price - `price_iw9_1_1`
+- The King - `price_iw9_2_1`
+- Old School Price - `price_iw9_3_1`
+- Bad Boonie - `price_iw9_desert`
+- Highrise - `price_iw9_highrise`
+- Ghilled Up - `price_iw9_intercept`
+- Veil - `price_10`
+- Feelin' Slothy - `price_12`
+- Veil Blackcell - `price_13`
+- Nemesis Price - `price_vault`
+
+## Raptor
+### Base name `tango`
+- Raptor - `tango`
+- Deerbot - `tango_10`
+- Coerce - `tango_11`
+- Wetsuit - `tango_13`
+- Airlock - `tango_14`
+- Executive - `tango_15`
+- Bone Collector (TBA) - `tango_18`
+
+## Reyes
+### Base name `reyes_iw9`
+- Reyes - `reyes_iw9_1_1`
+- S.A.Squatch - `reyes_iw9_2_1`
+- Low Drag - `reyes_iw9_3_1`
+- The Rogue - `reyes_iw9_4_1`
+- Foxtrot - `reyes_iw9_5_1`
+- Snack - `reyes_iw9_6_1`
+- Dead of Night - `reyes_iw9_7_1`
+- Woodland Shade - `reyes_iw9_8_1`
+- Cheesy - `pizza_rat_iw9_1_1`
+
+## Rick
+### Base name `judo`
+- Rick Grimes - `judo`
+- Rick Grimes Blackcell - `judo_10`
+
+## Ripper
+### Base name `sierra`
+- Ripper - `sierra`
+- The Bone Collector - `sierra_10`
+- Corsair - `sierra_13`
+- Corsair Blackcell - `sierra_14`
+
+## Riptide
+### Base name `zulu`
+- Riptide - `zulu`
+- Yokai - `zulu_10`
+- Nocturn - `zulu_11`
+- Cull - `zulu_12`
+- Scar Blackcell - `zulu_15`
+- Harkonnen Hunter - `zulu_16`
+- Sickle - `zulu_17`
+- Scar - `zulu_18`
+- Scalpel - `zulu_20`
+- Scalpel Blackcell - `zulu_21`
+
+## Rocket
+### Base name `delta`
+- Rocket - `delta`
+- Scarecrow - `delta_02`
+
+## Ronin
+### Base name `ronin_iw9`
+- Ronin - `ronin_iw9_1_1`
+- The Peak - `ronin_iw9_2_1`
+- The Vengeful - `ronin_iw9_3_1`
+- Heat Seeker - `ronin_iw9_4_1`
+- Speedster - `ronin_iw9_5_1`
+
+## Roze
+### Base name `roze_iw9`
+- Roze - `roze_iw9_1_1`
+- Triage - `roze_iw9_1_2`
+- Relentless - `roze_iw9_1_3`
+- Virtue - `roze_iw9_1_4`
+- Treats - `roze_iw9_1_5`
+- Blackout - `roze_iw9_2_1`
+- Sheathed Blade - `roze_iw9_3_1`
+- Psyop - `roze_iw9_4_1`
+- Thorns Out - `roze_iw9_5_1`
+- The Valkyrie - `roze_iw9_6_1`
+- Bad Bishop - `roze_iw9_7_1`
+- Bad Bishop Blackcell - `roze_iw9_7_2`
+
+## Sardukar 
+### Base name `sardukar_iw9`
+- Sardukar - `sardukar_iw9_1_1`
+
+## Scorch
+### Base name `hotel`
+- Scorch - `hotel`
+- Outbroken - `hotel_10`
+- Refuge - `hotel_11`
+- Prime - `hotel_12`
+- Vanquisher - `hotel_13`
+- Incite - `hotel_14`
+- Blood Angels Scout - `hotel_15a`
+- Ultramarines Scout - `hotel_15b`
+- Incite Blackcell - `hotel_17`
+- Kong Armor - `hotel_18`
+- Emperor - `hotel_20`
+- Refuge Blackcell - `alpha_25`
+
+## Shredder
+### Base name `shredder_iw9`
+- Shredder - `shredder_iw9_1_1`
+
+## Skeletor
+### Base name `sk_iw9`
+- Skeletor - `sk_iw9_1_1`
+- Horde Skeletor - `sk_iw9_2_1`
+- Disco Skeletor - `sk_iw9_3_1`
+
+## Snoop Dogg
+### Base name `snoopdogg_iw9` or `snoop`
+- Snoop Dogg - `snoopdogg_iw9_1_1`
+- D-O-Double G - `snoopdogg_iw9_1_2`
+- Snoop Dogg II - `snoop_10`
+- Snoop Dawg Blackcell - `snoop_11`
+
+## Soap
+### Base name `soap_iw9` or `soap`
+- TF 141 Red Team Soap - `soap_iw9_1_1`
+- Classic Soap - `soap_iw9_2_1`
+- Covert Soap - `soap_iw9_3_1`
+- Soap Masked - `soap_iw9_4_1`
+- Soap Unmasked - `soap_iw9_4_2`
+- The Hawk - `soap_iw9_mexico`
+- Capture or Kill - `soap_iw9_nightwar`
+- Capture or Kill Blackcell - `soap_iw9_nightwar_1_2`
+- Hector - `soap_10`
+- Skar King - `soap_11`
+- Hector Blackcell - `soap_12`
+
+## Spawn
+### Base name `spawn_iw9` or `al_iw9` or `tac_spawn_iw9`
+- Spawn - `spawn_iw9_2_1`
+- Spawn Blackcell - `spawn_iw9_2_2`
+- Al Simmons - `al_iw9_1_1`
+- Al Simmons Blackcell - `al_iw9_1_2`
+- Burned Spawn - `al_iw9_2_1`
+- Burned Spawn Blackcell - `al_iw9_2_2`
+- Mil-Spawn - `tac_spawn_iw9_1_1`
+- Mil-Spawn - `tac_spawn_i9_1_2`
+
+## Starlight
+### Base name `sl_iw9`
+- Starlight - `sl_iw9_1_1`
+
+## Stasis
+### Base name `fall`
+- Stasis - `fall`
+
+## Stiletto
+### Base name `stiletto_iw9`
+- Stiletto - `stiletto_iw9_1_1`
+- Payload - `stiletto_iw9_2_1`
+- Vibes - `stiletto_iw9_3_1`
+- Tempesta - `stiletto_iw9_4_1`
+- The Widow - `stiletto_iw9_7_1`
+- Scarlet Veil - `stiletto_iw9_8_1`
+- Mosquita Muerta - `stiletto_iw9_9_1`
+- Mosquita Muerta - `stiletto_iw9_9_2`
+
+## Swagger
+### Base name `whiskey`
+- Swagger - `whiskey`
+- War Horse - `whiskey_10`
+- Pop-Erator - `whiskey_11`
+- Expo - `whiskey_13`
+- Rave - `whiskey_14`
+- Raider - `whiskey_15`
+- Akuma - `whiskey_17`
+- Killshot - `whiskey_18`
+- Akuma Blackcell - `whiskey_20`
+
+## Thirst
+### Base name `charlie` or `foxtrot`
+- Thirst - `charlie`
+- Rasp - `foxtrot`
+
+## TimTheTatman
+### Base name `timthetatman_iw9`
+- TimTheTatman - `timthetatman_iw9_1_1`
+
+## V4L3RIA
+### Base name `valeria_iw9`
+- V4L3RIA - `valeria_iw9_8_1` 
+
+## Valeria
+### Base name `valeria_iw9` or `valeria`
+- Valeria - `valeria_iw9_sanjudas`
+- Valeria Blackcell - `valeria_iw9_1_2`
+- El Sin Nombre - `valeria_iw9_2_1`
+- El Sin Nombre - `valeria_iw9_2_2`
+- Socialite - `valeria_iw9_3_1`
+- Ocelopilli - `valeria_iw9_4_1`
+- Out For Blood - `valeria_iw9_5_1`
+- Out For Blood Blackcell - `valeria_iw9_5_2`
+- Dead Winter - `valeria_iw9_6_1`
+- The Queen - `valeria_iw9_7_1`
+- Rupture - `valeria_10`
+- Rupture Blackcell - `valeria_11`
+
+## Vega
+### Base name `vega_iw9`
+- Vega Unmasked - head `vega_iw9_1_1` body `blair_iw9_1_1`
+- Vega - head `vega_iw9_2_1` body `blair_iw9_2_1`
+
+## Velikan
+### Base name `velikan_iw9`
+- Velikan - `velikan_iw9_1_1`
+- Velikan Blackcell - `velikan_iw9_1_2`
+- Cosmos - `velikan_iw9_2_1`
+
+## Warden 
+### Base name `kilo`
+- Sovyna - `kilo_10`
+- Sovyna - `kilo_11`
+- Nemesis Warden - `kilo_vault`
+- Ayakashi - `kilo_13`
+
+## Warrior
+### Base name `romeo`
+- Koa King - `romeo`
+
+## Zero
+### Base name `zero_iw9` or `jinn_iw9`
+- Zero - `jinn_iw9_1_1`
+- Ursidae - `jinn_iw9_2_1`
+- Demise - `jinn_iw9_4_1`
+- Death Ravel - `jinn_iw9_4_2`
+- Vespidae - `zero_iw9_3_1`
+- Dry Heat - `zero_iw9_4_1`
+- Night Heat - `zero_iw9_4_2`
+- The Hunter - `zero_iw9_5_1`
+- Badlands - `zero_iw9_6_1`
+- Precious Cargo - `zero_iw9_7_1`
+
+## Zeus
+### Base name `zeus_iw9`
+- Zeus - `zeus_iw9_1_1`
+- Olympus King - `zeus_iw9_2_1`
+- Thunderwave - `zeus_iw9_3_1`
+- Untamed Fashion - `zeus_iw9_4_1`
+
+## Zimo
+### Base name `zimo_iw9`
+- Zimo - `zimo_iw9_1_1`
+- Defuse - `zimo_iw9_1_2`
+- Anti-Medic - `zimo_iw9_1_3`
+- Zodiac Rabbit - `zimo_iw9_1_5`
+- Survivor - `zimo_iw9_3_1`
+- War Shadow - `zimo_iw9_4_1`
