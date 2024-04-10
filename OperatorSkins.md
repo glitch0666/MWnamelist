@@ -3,7 +3,7 @@
 > For MW2022, the file names will be `head_mp` and `body_mp`, for MW2023, `head_c_jup_mp` and `body_c_jup_mp`
 
 > [!WARNING]
-> The names written down, unless specified, are names from head models. In rare cases, body models names are different than head models. If you notice anything from the list that has a different name and is NOT written down, please tell me!
+> The names written down, unless specified, are names from head models. In rare cases, body model names are different than head models. If you notice anything from the list that has a different name and is NOT written down, please tell me!
 
 ## 21 Savage
 ### Base name `tws_iw9`
@@ -102,7 +102,7 @@
 - Sigma - `alpha_23`
 - Clutch - `alpha_24`
 - Sigma Blackcell - `alpha_26`
-- ? - `alpha_27`
+- Clutch skin variation (TBA) - `alpha_27`
 
 ## Bantam
 ### Base name `golf`
@@ -173,7 +173,7 @@
 - Chong - `summer`
 
 ## Chuy
-### Base name `chili_iw9`/`chuy_iw9`
+### Base name `chili_iw9` or `chuy_iw9`
 - Shadow Merc - `assassin_iw9_1_1`
 - Chuy - `chili_iw9_1_1`
 - Clearwater - `chili_iw9_2_1`
