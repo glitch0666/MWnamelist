@@ -260,7 +260,6 @@
 - EOD Specialist - `fender_iw9_7_1`
 - Do you even lift? - `fender_iw9_8_1`
 - Carver - `fender_iw9_9_1`
-- Blunt Fingers - `fender_iw9_10_1`
 - Creepy Clown - `clown_iw9_1_1`
 - Creepy Clown Blackcell - `clown_iw9_1_2`
 
