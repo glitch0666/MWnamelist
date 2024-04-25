@@ -279,7 +279,7 @@
 - Takedown Blackcell - `kyle_iw9_highrise_1_2`
 - Grass Ops - `kyle_iw9_intercept`
 - Aquatic - `kyle_iw9_marina`
-- Mangler - `gaz_10`
+- Maim - `gaz_10`
 
 ## Ghost
 ### Base name `ghost_iw9` or `ghost`
@@ -322,7 +322,7 @@
 - Track Star - `gromsko_iw9_4_1`
 - Manticore - `gromsko_iw9_5_1`
 - Strzyga - `tarzan_iw9_1_1`
-- The Huner - `tarzan_iw9_2_1`
+- The Hunger - `tarzan_iw9_2_1`
 - Dr. Kushlov - `karlov_iw9_1_1`
 
 ## Gus
