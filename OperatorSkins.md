@@ -5,6 +5,13 @@
 > [!WARNING]
 > The names written down, unless specified, are names from head models. In rare cases, body model names are different than head models. If you notice anything from the list that has a different name and is NOT written down, please tell me!
 
+## Misc.
+### MWZ Warlords
+- Keres - `ext_chemist`
+- Legacy - `ext_director`
+- Rainmaker - `ext_rainmaker`
+- Dokkaebi - `ext_maestro`
+
 ## 21 Savage
 ### Base name `tws_iw9`
 - 21 Savage - `tws_iw9_1_1`
@@ -32,7 +39,7 @@
 - Orangutan - `og_iw9_1_1`
 
 ## Alejandro
-### Base name `alejandro_iw9`
+### Base name `alejandro_iw9` or `alejandro` or `chuy_iw9`
 - Alejandro - `alejandro_iw9_1_1`
 - Alejandro Blackcell - `alejandro_iw9_1_2`
 - Vaquero - `alejandro_iw9_2_1`
@@ -41,6 +48,7 @@
 - The Knight - `alejandro_iw9_3_2`
 - Swamped - `chuy_iw9_7_1` 
 - Swamped Blackcell - `chuy_iw9_7_2`
+- Model Solider - `alejandro_10`
 
 ## Alex
 ### Base name `alex_iw9`
@@ -112,6 +120,7 @@
 - Modern God - `golf_12`
 - Titan - `golf_13`
 - NYC - `golf_14`
+- Kinesis - `golf_15`
 - Executive Chef - `golf_16`
 - Cadian Kasrkin - `golf_17`
 
@@ -137,7 +146,7 @@
 - Truffle - `november_12`
 - Gale - `novermber_13`
 - Glimmer - `november_14`
-- ? - `november_15`
+- Automaton - `november_15`
 - Saboteur - `november_16`
 - Shimo - `november_17`
 - Saboteur Blackcell - `november_18`
@@ -209,6 +218,10 @@
 - The Mind - `oscar_20`
 - Cask Blackcell - `oscar_21`
 
+## Devin Booker
+### Base name `winter`
+- D Book - `winter`
+
 ## Doc
 ### Base name `juliet`
 - Doc - `juliet`
@@ -217,15 +230,18 @@
 - High Score - `juliet_12`
 - Speed Runner - `juliet_13`
 - Battle Sister - `juliet_14`
+- Cataclysm - `juliet_17`
 - Cardinal - `juliet_18`
 - Cardinal Blackcell - `juliet_19`
+- Sad Bunny - `juliet_20`
 
 ## Dokkaebi
 ### Base name `maestro`
 - Dokkaebi - `maestro`
+- Octane - `maestro_10`
 - Petrol - `maestro_11`
 - Dokkaebi Blackcell - `maestro_13`
-- Warlord/Zombies - `ext_maestro`
+- Dark Bunny - `maestro_14`
 
 ## Enigma
 ### Base name `quebec`
@@ -239,6 +255,7 @@
 - Casanova - `quebec_16`
 - Happy - `quebec_17`
 - ? - `quebec_18`
+- Zavesa - `quebec_19`
 
 ## Farah
 ### Base name `farah_iw9`
@@ -249,6 +266,7 @@
 - Voxel - `farah_iw9_2_1`
 - Skulker - `farah_10`
 - Skulker Blackcell - `farah_11`
+- Cold Killer - `farah_12`
 
 ## Fender
 ### Base name `fender_iw9`
@@ -307,6 +325,7 @@
 - Shade - `ghost_12`
 - Venator Blackcell - `ghost_13`
 - Shade Blackcell - `ghost_14`
+- Cold Biter - `ghost_15`
 - Nemesis Ghost - `ghost_vault`
 
 ## Graves
@@ -345,7 +364,7 @@
 - Homelander - `hl_iw9_1_1`
 
 ## Horangi
-### Base name `horangi_iw9`
+### Base name `horangi_iw9` or `horangi`
 - Horangi - `horangi_iw9_2_1`
 - D.E.A.D Agent - `horangi_iw9_3_1`
 - Invoker - `horangi_iw9_4_1`
@@ -357,6 +376,7 @@
 - Collision - `beta_iw9_1_1`
 - Death Frame - `chrome_neon_iw9_1_1`
 - Warfighter - `kpop_iw9_1_1`
+- Watcher - `horangi_10`
 
 ## Hush
 ### Base name `lambda`
@@ -411,6 +431,7 @@
 - Hunger Pains - `papa_15`
 - Whimsy - `papa_16`
 - Vex - `papa_17`
+- Mikan Endo - `papa_18`
 - ? - `papa_19`
 
 ## John Doe
@@ -446,7 +467,7 @@
 - Zombie - `kleo_iw9_8_1`
 
 ## Konig
-### Base name `koenig_iw9` or `ramstein_iw9` or `kilgore_iw9`
+### Base name `koenig_iw9` or `ramstein_iw9` or `kilgore_iw9` or `konig`
 - Konig - `kilgore_iw9_1_1`
 - Anonymous - `kilgore_iw9_1_2`
 - Blood Soaked - `kilgore_iw9_1_3`
@@ -464,6 +485,7 @@
 - Violator Blackcell - `koenig_iw9_13_1`
 - Desidia - `ramstein_iw9_2_1`
 - Expedition - `ramstein_iw9_3_1`
+- Wubz - `konig_10`, `konig_11`, `konig_12`, `konig_13`
 
 ## Lara Croft
 ### Basename `lc_iw9`
@@ -613,6 +635,7 @@
 - Kabuto - `bravo_14`
 - Nessie - `bravo_15`
 - Undaunted Blackcell - `bravo_17`
+- Anubis - `bravo_18`
 
 ## Paul Atreides
 ### Base name `beta`
@@ -632,8 +655,10 @@
 - Highrise - `price_iw9_highrise`
 - Ghilled Up - `price_iw9_intercept`
 - Veil - `price_10`
+- Frost Warning - `price_11`
 - Feelin' Slothy - `price_12`
 - Veil Blackcell - `price_13`
+- Keyboard Warrior - `price_15`
 - Nemesis Price - `price_vault`
 
 ## Raptor
@@ -667,6 +692,7 @@
 ### Base name `sierra`
 - Ripper - `sierra`
 - The Bone Collector - `sierra_10`
+- Broadcast - `sierra_12`
 - Corsair - `sierra_13`
 - Corsair Blackcell - `sierra_14`
 
@@ -727,6 +753,7 @@
 - Ultramarines Scout - `hotel_15b`
 - Incite Blackcell - `hotel_17`
 - Kong Armor - `hotel_18`
+- Com-bat Baby - `hotel_19`
 - Emperor - `hotel_20`
 - Refuge Blackcell - `alpha_25`
 
@@ -760,6 +787,7 @@
 - Hector - `soap_10`
 - Skar King - `soap_11`
 - Hector Blackcell - `soap_12`
+- Snow Suit - `soap_13`
 
 ## Spawn
 ### Base name `spawn_iw9` or `al_iw9` or `tac_spawn_iw9`
@@ -799,6 +827,7 @@
 - Expo - `whiskey_13`
 - Rave - `whiskey_14`
 - Raider - `whiskey_15`
+- All-Seeing - `whiskey_16`
 - Akuma - `whiskey_17`
 - Killshot - `whiskey_18`
 - Akuma Blackcell - `whiskey_20`
@@ -830,6 +859,7 @@
 - The Queen - `valeria_iw9_7_1`
 - Rupture - `valeria_10`
 - Rupture Blackcell - `valeria_11`
+- Leyenda - `valeria_12`
 
 ## Vega
 ### Base name `vega_iw9`
@@ -852,6 +882,8 @@
 ## Warrior
 ### Base name `romeo`
 - Koa King - `romeo`
+- Vanish - `romeo_10`
+- Lancer - `romeo_10a`
 
 ## Zero
 ### Base name `zero_iw9` or `jinn_iw9`
