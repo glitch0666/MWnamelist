@@ -256,6 +256,7 @@
 - Happy - `quebec_17`
 - ? - `quebec_18`
 - Zavesa - `quebec_19`
+- Luciferin - `ash_10`
 
 ## Farah
 ### Base name `farah_iw9`
